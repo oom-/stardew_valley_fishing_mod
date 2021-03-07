@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Ez_fishing",
+  "Author": "",
+  "Version": "1.0.0",
+  "Description": "If you have a girlfriend that is not playing often games... this mod is made for u.",
+  "UniqueID": "oom.ez_fishing",
+  "EntryDll": "fishing_mod.dll",
+  "UpdateKeys": []
+}
